@@ -4,7 +4,7 @@
 
 
    <p>
-     <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i>
+     <i>A Computer Science undergraduate student and a aspiring software developer with good problem-solving skills and curiousity. Excellent and responsible team player. Passionate about web developmement and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code.</i>
    </p>
 
 
@@ -60,6 +60,6 @@
 
 
   </td>
-  
+ 
 </div>
 
